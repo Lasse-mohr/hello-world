@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 This is a change to a text file
 
 In this branch (master) we keep things nice and simple
+=======
+>>>>>>> experimental
